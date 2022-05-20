@@ -1,6 +1,8 @@
 # week-2-IP-core-
 univariate, bivariate and multivariate analysis
 
+**BANK ACCESIBILITY IN EAST AFRICA.**
+
 **Data Analytic's Question**
 
 Predicting which individuals are most likely to have bank accounts.
